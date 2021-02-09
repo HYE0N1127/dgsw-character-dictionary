@@ -212,5 +212,18 @@
     "blog": "",
     "github": "https://github.com/donghee0901",
     "sns": ""
+  },
+    {
+    "name": "황현빈",
+    "generation": 5,
+    "profile_image": "https://avatars.githubusercontent.com/u/63246501?s=460&u=9f893cc57e3b04965c1ce218312eba97ca0de27a&v=4",
+    "intro": "언젠간 내가 원하던 것들이 이루어져 있길 바래🙏",
+    "club": [
+      "B1ND"
+    ],
+    "website": "",
+    "blog": "https://hyeon1127.tistory.com/",
+    "github": "https://github.com/HYE0N1127",
+    "sns": "https://www.instagram.com/h_biin1127__/"
   }
 ]
